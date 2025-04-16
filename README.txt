@@ -13,3 +13,13 @@ Commands :
 6. npm install react-scroll (Allows us to scroll to any specific sections quickly)
 
 7. npm install clsx (This is a tiny package which allows us to construct className strings conditionally. It means we can make the classNames dynamic using this package)
+
+8. npm install react-countup (Numbers dynamically count up or count down using this package)
+    start={plan.priceMonthly}
+    end={monthly ? plan.priceMonthly : plan.priceYearly}
+    duration={0.4}
+    useEasing={false}
+    preserveValue
+
+
+9. npm install react-slidedown --legacy-peer-deps

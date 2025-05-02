@@ -22,4 +22,4 @@ Commands :
     preserveValue
 
 
-9. npm install react-slidedown --legacy-peer-deps
+9. npm install react-slidedown --legacy-peer-deps ( It is used to open and close panel like plus icon panels used in this project )
